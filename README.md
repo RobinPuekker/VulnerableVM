@@ -8,9 +8,9 @@ Cross-Site Scripting (CWE-79)
 OS Command Injection (CWE-78)
 Unrestricted File Upload (CWE-434)
 
-Download
+Download:
 Download OVA https://drive.google.com/file/d/1_uXn3xyzJdVUd5SwSLb--TzOWHmFt-kg/view?usp=sharing
-Warning
+Warning:
 Only run in an isolated lab environment. Never expose to a public network.
-Report
+Report:
 Full security report will be added after submission.
